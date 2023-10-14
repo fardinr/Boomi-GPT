@@ -1,0 +1,1 @@
+add a map shape to a process to transform data from one profile to another. procedure drag the map shape onto the process canvas. the map shape dialog opens. optional: enter a custom label. select or create a map component. click ok.

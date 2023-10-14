@@ -1,0 +1,1 @@
+add a stop shape to a process to terminate the data flow in the process path. procedure drag the stop shape onto the process canvas. optional: enter a custom label. the stop properties dialog opens. optional: if you want to end processing at this point, clear the check box. click ok.

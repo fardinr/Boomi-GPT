@@ -1,0 +1,1 @@
+to discontinue your use of a document cache in a map, delete the document cache from the map. procedure open the map containing the document cache. expand the map so that you can see the document cache. click the blue actions arrow next to the document cache. select delete cached data and click ok. save the map.

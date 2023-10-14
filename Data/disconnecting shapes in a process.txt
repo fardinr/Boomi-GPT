@@ -1,0 +1,1 @@
+to insert a shape(s) between two connected shapes in a process, you need to disconnect the connected shapes. procedure click the green arrow originating from the source shape. drag the arrow off the destination shape. as you do so the arrow turns red. drop the arrow on the canvas or on a different shape.

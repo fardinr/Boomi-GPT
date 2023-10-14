@@ -1,0 +1,1 @@
+moving a shape in a process is a drag-and-drop operation. procedure click the shape and drag it on the canvas. as you drag the shape the lines connecting it to other shapes move with it.

@@ -1,0 +1,1 @@
+to add x12 options, follow the steps for adding an edi profile x12 standard, file options and version information. procedure expand the x12 options section. select an interchange control standard. optional: if you used version 3.x, set the remaining check boxes as required. click save.

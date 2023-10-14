@@ -1,0 +1,1 @@
+use the setting's document tracking tab to add up to 20 tracked fields.procedure select settings > account information and setup and click the document tracking tab. click the add tracked field icon . the tracked field dialog opens.type a name for the tracked field.select a data type from the list box.click ok.note: you can add a maximum of 20 tracked fields.

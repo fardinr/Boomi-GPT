@@ -1,0 +1,1 @@
+you can test extension values. procedure open a process. click the test button to go into test mode. choose an atom from the drop-down list. click on the test extensions drop-down. configure the extension values, just as you would for atom-level extensions. when you are finished configuring extension values, click run test to execute the process in test mode.

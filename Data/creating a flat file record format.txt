@@ -1,0 +1,1 @@
+add child records or insert a record into a flat file profile. procedure on the data elements tab, click the blue arrow next to an existing record format, such as the top-level record. select add child record or insert record. click the newly-created record node and give it a logical name. import or manually add and configure elements under the new record node.

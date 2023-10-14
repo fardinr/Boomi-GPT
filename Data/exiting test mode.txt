@@ -1,0 +1,1 @@
+after testing, return to edit mode. procedure click the back button next to the process name to return to edit mode. the process canvas background turns white, indicating that you are in edit mode. caution: the log and data files produced during a test mode execution are temporary. after you exit test mode, this information is lost.

@@ -1,0 +1,1 @@
+this sample javascript or groovy custom scripting function combines first and last names separated by a space. simple concatenations can also be accomplished with the standard string concat function. inputs firstname (character) lastname (character) outputs result script result = firstname + " " + lastname;

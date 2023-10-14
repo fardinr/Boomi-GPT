@@ -1,0 +1,1 @@
+you can use auto-generated options when you define edi profile segments. procedure open an edi profile. on the data elements tab, expand the tree and select the data element. on the right side of the page, expand the advanced section. in auto-generate options select one of the options. click save.

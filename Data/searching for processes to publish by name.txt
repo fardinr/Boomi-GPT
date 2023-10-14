@@ -1,0 +1,1 @@
+enter a name to search for packaged processes. procedure on the process library page in the packaged processes list, type all or part of a packaged process name in the search box. the packaged processes whose names contain the characters that you typed are displayed in the list. to reset the list, do one of the following: click the clear icon. press the esc key.

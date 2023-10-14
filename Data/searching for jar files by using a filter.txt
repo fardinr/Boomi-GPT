@@ -1,0 +1,1 @@
+you can search for jar files in the installed libraries panel by filtering status. procedure on the installed libraries panel, click one of the following filters: good warning errors unknown the files whose status matches the filter you selected are displayed in the list. optional: to clear the filter and redisplay the complete list of jar files, click all statuses.

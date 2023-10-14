@@ -1,0 +1,1 @@
+in this example, a process is able to receive orders only from a specific company, company a. the decision shape determines whether the document was sent by company a. if this is true, then the data from the company can continue processing. if this is false, then the document goes to a stop shape and halts processing for that particular instance.

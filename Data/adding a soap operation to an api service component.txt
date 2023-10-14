@@ -1,0 +1,1 @@
+click add operation on the api service component’s rest tab to add a soap operation. about this taskthese steps represent an alternative to generating endpoints by selecting processes to link. procedure in the api service component, select the soap tab. click add operation. next stepsconfigure the new operation.

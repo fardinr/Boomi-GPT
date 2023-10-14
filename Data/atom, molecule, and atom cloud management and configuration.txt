@@ -1,0 +1,1 @@
+after an atom, molecule, or atom cloud is installed, you can modify how it runs, change default settings, or even remove it. all atoms, molecules, and atom clouds are restarted each time a new release of the boomi platform is made available.

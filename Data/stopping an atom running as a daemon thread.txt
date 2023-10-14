@@ -1,0 +1,1 @@
+you stop atoms, molecule nodes, and cloud molecules. procedure open a console window. go to <installation_directory>\bin and execute the atom stop command. this stops the atom, molecule node, or cloud molecule if it is running. if the atom, molecule node, or cloud molecule is already stopped, then this command does nothing.

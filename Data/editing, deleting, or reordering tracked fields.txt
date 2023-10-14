@@ -1,0 +1,1 @@
+you can modify tracked fields. procedure select settings > account information and setup and click the document tracking tab. select a tracked field. do one of the following: click the edit tracked field icon, edit the values in the tracked field dialog and click ok. click the delete tracked field icon and click ok. click the move up icon. click the move down icon.

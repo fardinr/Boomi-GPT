@@ -1,0 +1,1 @@
+if there are changes to the structure of documents cached in an integration, you may need to remove indexes or keys in the document cache component. procedure open the document cache component. pause on the name of an index or key and click remove. click ok. save the document cache component.

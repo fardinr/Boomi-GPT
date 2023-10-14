@@ -1,0 +1,1 @@
+there are two types of api components, both of which are deployable and created in integration on the build page: api service components define api endpoints. api proxy components allow for the direct proxying of a request through an api gateway to a service which is not served through an atom, molecule, or atom cloud.

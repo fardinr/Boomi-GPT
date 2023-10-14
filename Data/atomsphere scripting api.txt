@@ -1,0 +1,1 @@
+the scripting api provides a way to interact with internal process execution information through scripting. scripting can be used in custom scripting steps and custom scripting map functions.

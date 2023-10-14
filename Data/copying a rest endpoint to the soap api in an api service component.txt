@@ -1,0 +1,1 @@
+copy a rest endpoint to soap through the actions menu on the rest tab of an api service component. procedure in the api service component, select the rest tab. in the left pane, click actions next to the route to copy, and select copy to soap. the newly generated soap endpoint is listed in the soap tab. click save or save and close.

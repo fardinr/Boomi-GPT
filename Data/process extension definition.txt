@@ -1,0 +1,1 @@
+first process extensions are defined within the process component. after a process has been defined with extensions and deployed, you need to set values for those extensions for the process to use when it executes.

@@ -1,0 +1,1 @@
+run the uninstall file to delete atoms, molecules, or cloud molecules from linux. procedure navigate to the directory in which you installed the atom, molecule or cloud molecule. run the uninstall file.
